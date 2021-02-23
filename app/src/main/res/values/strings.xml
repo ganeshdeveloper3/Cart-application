@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="AddProduct">Add Product</string>
+    <string name="SyncProduct">Sync Product</string>
+    <string name="ProductName">Product Name</string>
+    <string name="ProductDescription">Product Description</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Price">Price</string>
+    <string name="Save">SAVE</string>
+</resources>
