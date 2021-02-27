@@ -5,6 +5,10 @@
     <string name="ProductName">Product Name</string>
     <string name="ProductDescription">Product Description</string>
     <string name="Quantity">Quantity</string>
-    <string name="Price">Price</string>
     <string name="Save">SAVE</string>
+    <string name="ListOfBookAvailable">List of books available</string>
+    <string name="Author">Author:</string>
+    <string name="Price">Price:</string>
+    <string name="Books">Books</string>
+    <string name="AddProductIntoDB">Add Product</string>
 </resources>

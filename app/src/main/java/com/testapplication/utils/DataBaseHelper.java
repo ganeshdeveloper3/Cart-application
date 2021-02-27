@@ -85,4 +85,11 @@ public class DataBaseHelper extends SQLiteOpenHelper {
 
         return returnList;
     }
+    public Cursor getAllData() {
+        String selectQuery = "Select * from "+PRODUCT_TABLE;
+        SQLiteDatabase db = this.getReadableDatabase();
+        Cursor cursor = db.rawQuery(selectQuery, null);
+        return cursor;
+    }
+
 }
